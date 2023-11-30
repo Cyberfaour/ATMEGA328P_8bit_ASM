@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Codes\Assembly ATMega328P\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/apps\Atmel\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>D:\apps\Atmel\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Codes\Assembly ATMega328P\AssemblerApplication1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/apps\Atmel\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Codes\Assembly ATMega328P\AssemblerApplication1\Debug\AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <START><FILE>D:\Codes\Assembly ATMega328P\AssemblerApplication1\main.asm</FILE><LINE>29</LINE></START>
+  <DELAY><FILE>D:\Codes\Assembly ATMega328P\AssemblerApplication1\main.asm</FILE><LINE>111</LINE></DELAY>
+  <REVERSE><FILE>D:\Codes\Assembly ATMega328P\AssemblerApplication1\main.asm</FILE><LINE>130</LINE></REVERSE>
+  <LOOP1><FILE>D:\Codes\Assembly ATMega328P\AssemblerApplication1\main.asm</FILE><LINE>113</LINE></LOOP1>
+  <LOOP3><FILE>D:\Codes\Assembly ATMega328P\AssemblerApplication1\main.asm</FILE><LINE>115</LINE></LOOP3>
+  <LOOP2><FILE>D:\Codes\Assembly ATMega328P\AssemblerApplication1\main.asm</FILE><LINE>118</LINE></LOOP2>
+ </LABELS>
+</ASSEMBLER_INFO>
